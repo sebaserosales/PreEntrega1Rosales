@@ -1,0 +1,12 @@
+.CartWidgetStyle { 
+display: flex;
+align-items: center;
+padding: 10px;
+margin: 5px;
+    }
+
+img{
+        width: 2em;
+        height: 2em;
+        stroke: white;   
+    }
